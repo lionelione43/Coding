@@ -1,4 +1,3 @@
 Coding
 ======
-
-James's random coding
+This is just a random repo for James's random coding
